@@ -1,8 +1,8 @@
 # Template of the cask in alrubearb-sys/homebrew-peakcast. The release workflow
 # fills in the version and the checksum and pushes it there.
 cask "peakcast" do
-  version "0.4.2"
-  sha256 "532111635339a9d6db0ddd52b18c581183850e583eaf7066766c166fa944eaae"
+  version "0.4.3"
+  sha256 "d3dafa5bd616124e995d4a68707c927efe7f707ec009b8a85ff6d7fb9d7309e9"
 
   url "https://github.com/alrubearb-sys/peakcast/releases/download/v#{version}/Peakcast-#{version}-macos-arm64.zip"
   name "Peakcast"
